@@ -1,0 +1,266 @@
+.block-1{
+    padding: 0;
+    text-transform: uppercase;
+    background: #fff;
+}
+.block-1 h1:before,.block-1 h1:after{
+    content: '';
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    background: url(../img/icon1.png);
+}
+.block-1 h1:before{  
+    background-position: 0px 0px;
+    margin-right:12px;
+}
+.block-1 h1:after{  
+    background-position: -36px 0px;
+    margin-left:12px;
+}
+.block-1>p{
+    padding: 0 0 22px 0;
+    font:24px 'Akrobat-Black';
+    color:#515050;
+    text-align: center;
+    letter-spacing: 0.025em;
+}
+.block-1 .container{
+    padding: 390px 0 0 0;
+    background: url(../img/block1.jpg) center 0 no-repeat #103963; 
+}
+.price{
+    width: 200px;
+    text-align: center;
+    font: 22px 'Akrobat-Black';
+    text-transform: uppercase;
+    position: absolute;
+    right: 40px;
+    top: 25px;
+    letter-spacing: 0.025em;
+}
+.old-price{
+    height: 72px;
+}
+.old-price s{font-size: 36px;}
+.price .new{
+  font-size: 48px;
+  height: 60px;
+  line-height: 58px;
+  color:#fff;
+}
+.block-2{
+  background: url(../img/block3.png) 0 100% repeat-x #103963;
+  padding: 40px 0;
+}
+.block-2 ul{
+    position: relative;
+    padding: 0 20px;
+}
+.block-2 li{
+  font:24px 'Akrobat-Regular';
+  letter-spacing: 0.005em;
+  line-height: 26px;
+  padding: 15px 15px 20px 100px;
+  position: relative;
+}
+.block-2 li:before{
+  background: url('../img/icon2.png');
+  width: 45px;
+  height: 46px;
+  position: absolute;
+  left: 32px;
+  top: 12px;
+}
+.block-2 li:nth-child(1):before{background-position: 0px 0px;}
+.block-2 li:nth-child(2):before{background-position: 0px -56px;}
+.block-2 li:nth-child(3):before{background-position: 0px -115px;}
+.block-2 li:nth-child(4):before{background-position: 0px -188px;}
+.block-3{
+    padding: 30px 20px 40px;
+  background: #fff;
+  border-bottom: 1px dashed #ccc;
+}
+.block-3 img{margin: 30px auto}
+.block-3 p{
+  color: #333333;
+  font: 300 18px 'Fira Sans';
+  line-height: 1.5em;
+  text-align: justify;
+}
+.block-4 h2{
+  letter-spacing: 0.025em;
+  padding-bottom:15px;
+}
+.block-4 ul{
+    position: relative;
+    padding: 20px 0 0 0;
+}
+.block-4 li{
+  background: url(../img/check.png) no-repeat;
+  color: #222222;
+  padding: 0 0 30px 80px;
+  font: 300 18px 'Fira Sans';
+  line-height: 1.5em;
+}
+.block-4 li:last-child{
+    padding-bottom: 0;
+}
+.block-5{
+    position: relative;
+    padding: 40px 0;
+    background: url(../img/block5.jpg) center 0 no-repeat;
+    background-size: cover;
+  
+}
+.block-5 h2{
+  color: #fff;
+  font-size: 26px;
+  line-height: 34px;
+}
+.block-5 li,.block-8 li,.block-10 li{
+    position: relative;
+    float: left;
+  width: 50%;
+  height: 275px;
+  padding: 0 15px;
+  text-align: center;
+  font: 500 16px 'Fira Sans';
+  text-transform: uppercase;
+  position: relative;
+}
+.block-5 ul{
+    position: relative;
+    padding: 30px 0 0;
+}
+.block-5 li:before{
+  background: url(../img/li1before.jpg);
+  width: 201px;
+  height: 201px;
+  border-radius: 50%;
+  margin:0 auto;
+  margin-bottom: 10px;
+}
+.block-5 li:nth-child(1):before {background-position: -5px -5px;}
+.block-5 li:nth-child(2):before {background-position: -216px -5px;}
+.block-5 li:nth-child(3):before  {background-position: -5px -216px;}
+.block-5 li:nth-child(4):before  {background-position: -216px -216px;}
+.block-5 li:nth-child(5):before  {background-position: -427px -5px;}
+.block-5 li:nth-child(6):before  {background-position: -427px -216px;}
+.block-5 li:nth-child(7):before  {background-position: -5px -427px;}
+.block-5 li:nth-child(8):before  {background-position: -216px -427px;}
+.block-6{
+    background: #08b0d4;
+    background: -webkit-linear-gradient(bottom, #08b0d4, #089cd4);
+    background: -moz-linear-gradient(bottom, #089cd4, #08b0d4);
+    background: -o-linear-gradient(bottom, #089cd4, #08b0d4);
+    background: -ms-linear-gradient(bottom, #089cd4, #08b0d4);
+    background: linear-gradient(to top, #089cd4, #08b0d4);
+}
+.block-6 h2{
+  color:#fff;
+  padding-bottom: 25px;
+}
+.block-7{
+  padding-top: 30px;
+  background: #f5f5f5;
+}
+.block-7 img{
+  border-radius: 76px;
+  margin: 18px auto;
+  display: block;
+}
+.block-7 p{
+  text-align: justify;
+  text-align-last:center;
+  font: italic 300 16px 'Fira Sans';
+  color: #333333;
+  line-height: 24px;
+  padding: 0 20px 5px;
+}
+.block-8{
+    padding: 40px 0;
+    background: url(../img/block8.jpg) center 0 no-repeat;
+    background-size: cover;
+}
+.block-8 h2,.block-10 h2{
+  color: #ffffff;
+  padding-bottom: 15px;
+}
+.block-8 ul, .block-10 ul{
+    position: relative;
+    padding: 20px 0 0;
+}
+.block-8 li:before,.block-10 li:before{
+  width: 209px;
+  height: 209px;
+  border-radius: 50%;
+  margin:0 auto;
+  margin-bottom: 15px;
+}
+.block-8 li:before{background-image: url(../img/li2before.jpg);}
+.block-9{
+  padding-top:30px;
+  background: #f2f2f2;
+}
+.block-9 h2{
+  padding:0 20px;
+  line-height: 32px;
+}
+.block-9 .slide-vk {
+  width: 300px;
+  margin: 25px auto 0;
+}
+.block-10{background: url(../img/block10.jpg) center 0 no-repeat; position: relative; padding: 40px 0 10px;background-size: cover;}
+.block-10 li{
+    height: 280px;
+}
+.block-10 li:before{background-image: url(../img/li3before.jpg);}
+.block-8 li:nth-child(1):before,.block-10 li:nth-child(1):before {background-position: -2px -2px;}
+.block-8 li:nth-child(2):before,.block-10 li:nth-child(2):before {background-position: -215px -2px;}
+.block-8 li:nth-child(3):before,.block-10 li:nth-child(3):before  {background-position: -428px -2px;}
+.block-8 li:nth-child(4):before,.block-10 li:nth-child(4):before  {background-position: -641px -2px;}
+.block-11{
+    padding: 30px 0 0;
+  text-transform: uppercase;
+}
+.block-11 h2{
+  color: #103963;
+  padding: 0 0 20px 0;
+}
+.block-11 .container{
+  height: 425px;
+  background: url(../img/block1.jpg) center 0 no-repeat;  
+}
+.block-12{
+  background: #e1e1e1;
+}
+.timer {
+  background: #103963;
+  padding: 20px 40px;
+  -webkit-border-radius: 30px 30px 0 0;
+  -moz-border-radius: 30px 30px 0 0;
+  border-radius: 30px 30px 0 0;
+  margin-top: -77px;
+  font:500 15px 'Fira Sans';
+  letter-spacing: 0.025em;
+}
+.timer>p{
+    padding: 0 0 10px;
+    font-size: 18px;
+}
+.m1-form{
+  padding: 30px 20px;
+  background: #068edc;
+  -webkit-border-radius: 0 0 30px 30px ;
+  -moz-border-radius: 0 0 30px 30px;
+  border-radius: 0 0 30px 30px;
+}
+.footer{
+  padding: 20px 0;
+  background: #fff;
+}
+.footer a{
+  color: #234161;
+  font:13px 'Fira Sans'; 
+}

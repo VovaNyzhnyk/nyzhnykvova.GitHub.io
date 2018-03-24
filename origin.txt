@@ -1,0 +1,112 @@
+Uri: https://veryshopss.ru/ecoslim-fs5/
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\index.htm
+Content Type: text/html
+
+Uri: https://veryshopss.ru/ecoslim-fs5/favicon.ico
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://veryshopss.ru/ecoslim-fs5/css/settings.css
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\css\settings.css
+Content Type: text/css
+
+Uri: https://veryshopss.ru/ecoslim-fs5/css/style.css
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\css\style.css
+Content Type: text/css
+
+Uri: https://veryshopss.ru/ecoslim-fs5/css/slick.css
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\css\slick.css
+Content Type: text/css
+
+Uri: https://veryshopss.ru/ecoslim-fs5/js/slick.min.js
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\js\slick.min.js
+Content Type: text/javascript
+
+Uri: https://veryshopss.ru/ecoslim-fs5/js/scripts.js
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\js\scripts.js
+Content Type: text/javascript
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/img1.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/ava-doc.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\ava-doc.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/vk1.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\vk1.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/vk2.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\vk2.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/vk3.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\vk3.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/?page=politics
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\index-1.htm
+Content Type: text/html
+
+Uri: https://veryshopss.ru/ecoslim-fs5/?page=agreement
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\index-2.htm
+Content Type: text/html
+
+Uri: https://veryshopss.ru/ecoslim-fs5/css/fonts/Akrobat-Black.otf
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\css\fonts\Akrobat-Black.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://veryshopss.ru/ecoslim-fs5/css/fonts/Akrobat-Regular.otf
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\css\fonts\Akrobat-Regular.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/icon1.png
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\icon1.png
+Content Type: image/png
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/block1.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\block1.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/block3.png
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\block3.png
+Content Type: image/png
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/icon2.png
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\icon2.png
+Content Type: image/png
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/check.png
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\check.png
+Content Type: image/png
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/block5.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\block5.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/li1before.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\li1before.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/block8.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\block8.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/li2before.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\li2before.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/block10.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\block10.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/li3before.jpg
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\li3before.jpg
+Content Type: image/jpeg
+
+Uri: https://veryshopss.ru/ecoslim-fs5/img/pn.png
+File Name: C:\Users\Вова\Desktop\12\mayo.com.ua\veryshopss.ru\ecoslim-fs5\img\pn.png
+Content Type: image/png
+
